@@ -9,6 +9,7 @@
   "author": "Urivan Rubio",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "trello": "^0.11.0"
   }
 }
